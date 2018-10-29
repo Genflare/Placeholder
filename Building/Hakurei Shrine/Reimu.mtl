@@ -1,0 +1,75 @@
+newmtl color__1499859
+illum 4
+Kd 0.91 0.11 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl color__5670064
+illum 4
+Kd 0.66 0.48 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl color__10471149
+illum 4
+Kd 0.38 0.22 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl color__13947343
+illum 4
+Kd 0.17 0.18 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Roof.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood Pillar.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Stone Wall.jpg
+Ni 1.00
+newmtl tinker_color__7005663
+illum 4
+Kd 0.58 0.10 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tinker_color__10471149
+illum 4
+Kd 0.38 0.22 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tinker_color__13947353
+illum 4
+Kd 0.66 0.48 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tinker_color__13947359
+illum 4
+Kd 0.17 0.18 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
